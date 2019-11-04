@@ -1,15 +1,7 @@
-﻿# id3-parser
-
-[![Build Status](https://travis-ci.org/creeperyang/id3-parser.svg?branch=master)](https://travis-ci.org/creeperyang/id3-parser)
-[![npm version](https://badge.fury.io/js/id3-parser.svg)](https://badge.fury.io/js/id3-parser)
-[![download times](https://img.shields.io/npm/dm/id3-parser.svg)](https://www.npmjs.com/package/id3-parser)
 
 A pure JavaScript id3 tag parser.
 
 ## Installation & Usage
-
-[![NPM](https://nodei.co/npm/id3-parser.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/id3-parser/)
-
 ```js
 import * as ID3 from 'id3-parser';
 
